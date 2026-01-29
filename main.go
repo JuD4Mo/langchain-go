@@ -7,7 +7,8 @@ func main() {
 	// jinjaPromptTemplates()
 	// multilineTemplates()
 	// partialVariablesInPrompts()
-	promptsWithModels()
+	// promptsWithModels()
+	chatPromptTemplate()
 }
 
 // func main() {
