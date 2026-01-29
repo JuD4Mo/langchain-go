@@ -8,7 +8,9 @@ func main() {
 	// multilineTemplates()
 	// partialVariablesInPrompts()
 	// promptsWithModels()
-	chatPromptTemplate()
+	// chatPromptTemplate()
+	usingChatsModels()
+
 }
 
 // func main() {
