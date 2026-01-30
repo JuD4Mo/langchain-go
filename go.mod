@@ -2,7 +2,10 @@ module github.com/JuD4Mo/langchain-go
 
 go 1.25.5
 
-require github.com/tmc/langchaingo v0.1.14
+require (
+	github.com/joho/godotenv v1.5.1
+	github.com/tmc/langchaingo v0.1.14
+)
 
 require (
 	cloud.google.com/go v0.116.0 // indirect
@@ -30,7 +33,6 @@ require (
 	github.com/goph/emperror v0.17.2 // indirect
 	github.com/huandu/xstrings v1.3.3 // indirect
 	github.com/imdario/mergo v0.3.13 // indirect
-	github.com/joho/godotenv v1.5.1 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.0 // indirect
