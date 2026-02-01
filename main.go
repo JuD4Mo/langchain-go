@@ -9,7 +9,8 @@ func main() {
 	// partialVariablesInPrompts()
 	// promptsWithModels()
 	// chatPromptTemplate()
-	usingChatsModels()
+	// usingChatsModels()
+	configuringModelResponses()
 
 }
 
