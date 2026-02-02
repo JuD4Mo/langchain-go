@@ -28,7 +28,8 @@ func configuringModelResponses() {
 	}
 
 	res, err := llms.GenerateFromSinglePrompt(ctx, llm, "who invented the microphone",
-		llms.WithTemperature(0.3))
+		llms.WithTemperature(0.3),
+		llms.WithMaxTokens(100))
 	if err != nil {
 		log.Fatal(err)
 	}

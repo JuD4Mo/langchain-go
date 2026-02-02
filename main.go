@@ -10,7 +10,8 @@ func main() {
 	// promptsWithModels()
 	// chatPromptTemplate()
 	// usingChatsModels()
-	configuringModelResponses()
+	// configuringModelResponses()
+	usingLocalModels()
 
 }
 
