@@ -11,7 +11,8 @@ func main() {
 	// chatPromptTemplate()
 	// usingChatsModels()
 	// configuringModelResponses()
-	usingLocalModels()
+	// usingLocalModels()
+	UsingFakesLlms()
 
 }
 
