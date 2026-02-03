@@ -13,7 +13,9 @@ func main() {
 	// configuringModelResponses()
 	// usingLocalModels()
 	// UsingFakesLlms()
-	LlmChains()
+	// LlmChains()
+	// SequentialChains()
+	ConversationalChain()
 
 }
 
