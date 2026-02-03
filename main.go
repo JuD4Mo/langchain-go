@@ -15,7 +15,9 @@ func main() {
 	// UsingFakesLlms()
 	// LlmChains()
 	// SequentialChains()
-	ConversationalChain()
+	// ConversationalChain()
+	// ReActAgent()
+	UsingCustomTools()
 
 }
 
