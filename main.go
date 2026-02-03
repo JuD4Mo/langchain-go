@@ -12,7 +12,8 @@ func main() {
 	// usingChatsModels()
 	// configuringModelResponses()
 	// usingLocalModels()
-	UsingFakesLlms()
+	// UsingFakesLlms()
+	LlmChains()
 
 }
 
